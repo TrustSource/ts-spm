@@ -1,5 +1,5 @@
 # ecs-spm-plugin
-Swift package manager for ECS (open source code compliance)
+Swift package manager for TrustSource (ECS) (open source code compliance)
 
 ## Installation
 
@@ -34,4 +34,4 @@ ecs-spm-plugin <path to the project directory>
 
 ## License
 
-[Apache-2.0](https://github.com/eacg-gmbh/ecs-spm-plugin/blob/master/LICENSE)
+[MIT](https://github.com/eacg-gmbh/ecs-spm-plugin/blob/master/LICENSE)

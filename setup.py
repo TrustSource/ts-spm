@@ -5,26 +5,26 @@ setup(
 
     packages=['ecs_spm_plugin'],
 
-    version='0.1',
+    version='0.1.1',
 
-    description='Swift package manager for ECS (open source code compliance)',
+    description='Swift package manager for TrustSource (open source code compliance)',
 
     author='EACG GmbH',
 
-    license='Apache-2.0',
+    license='MIT',
 
     url='https://github.com/eacg-gmbh/ecs-spm-plugin.git',
 
     download_url='',
 
-    keywords=['scanning', 'dependencies', 'modules', 'ECS', 'Swift'],
+    keywords=['scanning', 'dependencies', 'modules', 'ECS', 'Swift', 'TrustSource'],
 
     classifiers=[],
 
     install_requires=['ecs-python-client'],
 
     dependency_links=[
-        'git+https://github.com/eacg-gmbh/ecs-python-client.git#egg=ecs-python-client-0'
+        'git+https://github.com/eacg-gmbh/ecs-python-client.git#egg=ecs-python-client-0.1.1'
     ],
 
     scripts=['ecs-spm-plugin'],
