@@ -1,5 +1,9 @@
-# ecs-spm-plugin
+# ts-spm-plugin
 Swift package manager for TrustSource (ECS) (open source code compliance)
+
+> [!WARNING]
+> **PLEASE NOTE:** We stopped further development on this tool. You may still use it, but it will no longe receive support. Starting Q4/2024 we decided to focus all efforts on developing [ts-scan](https://github.com/trustsource/ts-scan), which will soon also cover all capabilities of this solution. 
+
 
 ## Installation
 
